@@ -37,7 +37,7 @@ function MyTabs() {
         component={HomeScreen}
         options={{
           // The custom tab bar label is ignored and the navigation name "Home" is used nevertheless
-          tabBarLabel: "Custom Home",
+          tabBarLabelText: "Custom Home",
           // The custom tab bar label style is ignored and the default style is used nevertheless
           tabBarLabelStyle: { fontSize: 20 }
         }}
